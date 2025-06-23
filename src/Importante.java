@@ -10,7 +10,7 @@ public class Importante {
         } else if (prioridade > 3 || urgencia > 7) {
             System.out.println("Tarefa importante");
         } else {
-            System.out.println("Tarefa comum");
+            System.out.println("Tarefa comum,");
         }
     }
 }
