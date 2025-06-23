@@ -16,7 +16,7 @@ public class Item {
         }
         public static void main (String[] args) {
             Item x = new Item("Caderno");
-            Item y = new Item("Caneta", 3);
+            Item y = new Item("Caneta.", 3);
             System.out.println(x.quantidade + y.quantidade);
 
         }
